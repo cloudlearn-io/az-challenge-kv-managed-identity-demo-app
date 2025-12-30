@@ -1,0 +1,1 @@
+# az-challenge-kv-managed-identity-demo-app
